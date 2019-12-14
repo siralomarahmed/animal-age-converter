@@ -1,5 +1,5 @@
 # Introduction
-Originally this age script will convert your age from “human years” to “dog years”. The scope of this repo has been increased from just calculating one animal age to multiple. It will still remain as a console app until it has accamulated a numbers of animals, then the process of building the interface will begin.
+Originally this script will convert your age from “human years” to “dog years”. The scope of this repo has been increased from just calculating one animal age to multiple. It will still remain as a console app until it has accamulated a numbers of animals, then the process of building the interface will begin.
 
 ## Example of one animal (Dog)
 **Explanation**
